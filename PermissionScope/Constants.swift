@@ -12,7 +12,7 @@ import UIKit
 enum Constants {
     struct UI {
         static let contentWidth: CGFloat                 = 280.0
-        static let dialogHeightSinglePermission: CGFloat = 260.0
+        static let dialogHeightSinglePermission: CGFloat = 200.0
         static let dialogHeightTwoPermissions: CGFloat   = 360.0
         static let dialogHeightThreePermissions: CGFloat = 460.0
     }
